@@ -6,7 +6,7 @@ app.get('/', function(req,res){
 });
 
 app.get('/profile', function(req,res){
-  res.end("Hi, My name is LEK");
+  res.end("Hi, My name is Chirdchai");
 });
 
 app.post('/profile', function(req, res){
